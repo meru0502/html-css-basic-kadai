@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>8章課題</title>
+  <meta name="description"content="このページは8章の課題です。">
+  <meta charset="UTF-8">
+ </head>
+ <body>
+  <header>
+    <H1>SAMURAIニュース</H1>
+     <nav>
+      <a href="https://www.sejuku.net/">ホーム</a>
+      <a href="https://www.sejuku.net/">社会</a>
+      <a href="https://www.sejuku.net/">経済</a>
+      <a href="https://www.sejuku.net/">スポーツ</a>
+      <a href="https://www.sejuku.net/">テクノロジー</a>
+     </nav>
+  </header>
+  <main>
+      <article>
+        <h2>会社</h2>
+        <section>
+          <h3>和菓子店も「トリックオアトリート！」
+            <p>日本でも年々人気の高まるハロウィン。
+              今年は大手和菓子店５社がハロウィン向けの和菓子セットを共同開発しました。</p>
+        </section>
+        <section>
+          <h3>私のおすすめの和菓子アンケートフォーム</h3>
+          <form>
+            <audio src="ichi.mp3" controls></audio>
+          </form>
+        </section>
+      </article>
+      <article>
+        <h2>テクノロジー</h2>
+        <section>
+          <h3>SAMURAIが新しい動画をリリース</h3>
+          <p>SAMURAI公式YouTubeで新しい動画がリリースされました。
+            動画の内容はHTML/CSSの解説です。</p>
+          <iframe>
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.747798533325!2d139.74324421566527!3d35.658584838820154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbd9009ec09%3A0x481a93f0d2a409dd!2z5p2x5Lqs44K_44Ov44O8!5e0!3m2!1sja!2sjp!4v1636041735064!5m2!1sja!2sjp"
+            width="500" height="500">
+          </iframe>
+        </section>
+      </article>
+  </main>
+  <footer>
+    <p>&copy;SAMURAIニュース</p>
+  </footer>
+ </body>
+</html>
+    
